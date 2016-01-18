@@ -1,4 +1,4 @@
-# BIBIHW_1
+## BIBI Homework - Fibonacci
 Code HW - 5ahw HTL Innsbruck, Austria - Fibonacci
 
 ## How does it work?
