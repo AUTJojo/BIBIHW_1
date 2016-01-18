@@ -7,7 +7,7 @@ It is not possible to set the value to anything besides an Integer.
 
 [Wikipedia](https://en.wikipedia.org/wiki/Fibonacci_number)
 
-#### Examaple:
+#### Example:
 
 ```
 fibonacci(int n) {
