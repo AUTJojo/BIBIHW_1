@@ -30,16 +30,16 @@ public class Main {
 		System.out.println(fibonacci(i_eingabe));
 	}
 	
-	public static long fibonacci(int n) {
-		if(n == 0) {
+	public static long fibonacci(int value) {
+		if(value == 0) {
 		  return 0;
 		}
 		
-		if(n == 1) {
+		if(value == 1) {
 			return 1;
 		} 
 			
-		return fibonacci(n-1) + fibonacci(n-2); 
+		return fibonacci(value-1) + fibonacci(value-2); 
 		
 	}
 }
