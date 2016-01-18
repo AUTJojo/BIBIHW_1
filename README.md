@@ -5,9 +5,9 @@ Code HW - 5ahw HTL Innsbruck, Austria - Fibonacci
 You can simply set a value and you'll get the Fibonacci Result as a return.
 It is not possible to set the value to anything besides an Integer. 
 
-[Wikipedia:](https://en.wikipedia.org/wiki/Fibonacci_number)
+[Wikipedia](https://en.wikipedia.org/wiki/Fibonacci_number)
 
-Examaple:
+#### Examaple:
 
 ```
 fibonacci(int n) {
